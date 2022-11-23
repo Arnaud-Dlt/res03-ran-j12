@@ -18,7 +18,7 @@
 
         display: grid;
         grid-template-rows: 0.2fr 1fr;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns:1fr);
         column-gap: 2em;
         row-gap: 2em;
     }
@@ -88,7 +88,7 @@
 
         display: grid;
         grid-template-rows: 0.2fr 1fr;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr);
         column-gap: 2em;
         row-gap: 2em;
     }
